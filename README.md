@@ -1,41 +1,59 @@
-App Name: Query Bot
 Description
-Query Bot is an AI-powered FAQ chatbot designed to provide accurate and helpful responses to user queries. It features a user-friendly chat interface, FAQ retrieval capabilities, and dynamic content loading.
+
+Query Bot is an AI-powered FAQ assistant designed to deliver accurate, meaningful, and conversational responses to user queries. It features a smooth chat interface, intelligent FAQ retrieval, and dynamic content loading for real-time updates.
 
 Author
+
 Ayush
 
 Version
+
 0.1.0
 
 Tech Stack
+
 Next.js
 
-Firebase
-
-Machine Learning (Genkit AI, Google AI)
+Machine Learning: Genkit AI, Google AI
 
 Tailwind CSS
 
 Documentation
-The main entry point for the application is src/app/page.tsx.
+
+The primary entry point for the application is:
+src/app/page.tsx
 
 Features
-Chat Interface: Simple and intuitive web chat interface for user interaction.
+💬 Chat Interface
 
-FAQ Retrieval: Retrieves relevant FAQs based on user queries.
+A clean and intuitive chat UI that enables seamless interaction.
 
-AI-Powered Responses: Uses AI to generate conversational responses.
+📚 FAQ Retrieval
 
-Dynamic Content Loading: Loads new FAQs dynamically.
+Automatically retrieves and displays relevant FAQs based on user queries.
+
+🤖 AI-Powered Responses
+
+Generates context-aware and conversational replies using AI/ML models.
+
+⚡ Dynamic Content Loading
+
+Supports real-time loading of new FAQs and updated information without refreshing the page.
 
 How to Start
-Follow these steps to set up the project:
 
-Clone the repository.
+Follow these steps to set up and run the project locally:
 
-Install dependencies using npm install.
+1️⃣ Clone the Repository
+git clone <repository-url>
 
-Start the development server using npm run dev.
+2️⃣ Install Dependencies
+npm install
 
-The application will be accessible at http://localhost:9002.
+3️⃣ Start the Development Server
+npm run dev
+
+4️⃣ Access the Application
+
+Open your browser and navigate to:
+👉 http://localhost:9002
